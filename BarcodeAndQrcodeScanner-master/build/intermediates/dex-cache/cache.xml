@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_71028e91de7503f4d922137938a1a8afc482556d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_407ebdb9b17fb50ee5997499c0136aba4d62d86a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_879acaaf59b28099f1f2605030199c1c76baca23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_a1396c7ee08f506c1b605e06c2abc736ec5fd83a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_b5f0e0aa79206efb8c8e40d3d11abbba89f37b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_08fbb4eeaf15b5bd7aad7451de90acc62fd940b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bc2ede15ef28142f722146f7e7d16826778dcafc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_09f30192b25ed0dadc1c54e2055fe73d4cd96ff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/core-3.2.1_7cbe42c14d7eae00612a94cab544849d25d04fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_53f993e34a6be31daeabd0751fba4f6ba81addcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cb9661efbc89dc269d8bd688bb800b67c1c71585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_5b570690315325ca09dbc0147845e2297a4093cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c44a3555dcd6cc7b4d141fee4d72788d0f8720c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/mail_018417e65bfe334fd8b7241f692791e275af4716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/activation_1d52a375654f5dcfb700b24e59d444177f158e25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_0d72f7c5dee9bf2de1eb87636da3dc46c4e6e47e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1cc3a9fee9b4e75c78009f19f9b6b6900f01dae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_7a5e39f0ec4d2144275f033ae3f433cefedafa78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_479dd7f10bc52c0f8ec17c54323d79d69d8485f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_c2703555592af2b6a10e38325850c76ce3ace483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/additionnal_cb3213881992bc199df506c448de5d2d72e30be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sasmitoh/Documents/BarcodeAndQrcodeScanner-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_7c383c54fc929910f765511b7b82b3aefad32f06.jar" />
+    </item>
+
+</items>
